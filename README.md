@@ -1,4 +1,5 @@
 # Yii Boilerplate
+This repos is forking from https://github.com/brentjanderson/yii-boilerplate
 This boilerpate follows practices and uses plugins that I use in virtually all of my Yii projects.
 
 ## How to use
@@ -36,3 +37,5 @@ Set up remotes, etc. as you like it!
 
 This code is free to use and is simply an agglomeration of Yii best-practices that I've picked up and repeated too much.
 The various plugins are licensed by their various authors.
+
+* Thanks to Brent J Anderson
