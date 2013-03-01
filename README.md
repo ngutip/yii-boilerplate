@@ -38,4 +38,4 @@ Set up remotes, etc. as you like it!
 This code is free to use and is simply an agglomeration of Yii best-practices that I've picked up and repeated too much.
 The various plugins are licensed by their various authors.
 
-* Thanks to Brent J Anderson
+* Theanks to Brent J Anderson
